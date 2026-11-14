@@ -13,7 +13,7 @@ An interactive, AI-assisted decision support dashboard built on NASA's **Physica
 
 ## 🚀 Live Demo
 
-👉 **[Launch the Dashboard](https://your-username-nasa-fire-safety-dashboard.streamlit.app)**
+👉 **[Launch the Dashboard](https://nasapsifiresafetydashboard.streamlit.app/)**
 
 No installation required — just open the link in any browser.
 
